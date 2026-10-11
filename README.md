@@ -78,4 +78,4 @@ Os dados utilizados nas demonstrações são fictícios e destinados exclusivame
 
 ## Autoria
 
-Desenvolvido por **Larissa da Silva Santos** como atividade acadêmica da disciplina de Lógica, Algoritmo e Programação de Computadores.
+Desenvolvido por **Larissa Santos** como atividade acadêmica da disciplina de Lógica, Algoritmo e Programação de Computadores.
